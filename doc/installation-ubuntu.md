@@ -1,4 +1,4 @@
-# Installation vom Ubuntu
+# Installation von Ubuntu
 
 ## USB-Stick erstellen und booten
 
