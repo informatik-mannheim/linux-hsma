@@ -1,0 +1,4 @@
+# virtualization
+virtualbox           # Virtualisierung von Oracle
+virtualbox-ext-pack  # Extension Pack für Virtual Box
+virtualbox-qt        # QT-Oberfläche für VirtualBox

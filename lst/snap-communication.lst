@@ -1,0 +1,5 @@
+# Browser
+chromium                         # Browser
+
+# Kommunikation
+slack --classic                  # Kommunikationstool

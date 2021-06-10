@@ -1,0 +1,6 @@
+# Ruby gems to install
+bundler
+jekyll
+jekyll-paginate
+ruby-debug-ide
+rubocop

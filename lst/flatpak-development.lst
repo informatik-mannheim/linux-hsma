@@ -1,0 +1,8 @@
+# Java Entwicklung
+org.eclipse.Java             # Eclipse IDE
+
+# Arduino-Programmierung
+cc.arduino.arduinoide        # Arduino IDE
+
+# Hex-Editor
+org.wxhexeditor.wxHexEdit     # Hex-Editor

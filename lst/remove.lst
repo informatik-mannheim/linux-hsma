@@ -1,0 +1,12 @@
+# Pakete die standardmäßig entfernt werden
+gnome-sudoku
+epiphany-browser
+epiphany-browser-data
+gnome-calculator
+gnome-logs
+thunderbird
+gnome-mahjongg
+aisleriot
+gnome-mines
+transmission-common
+transmission-gtk

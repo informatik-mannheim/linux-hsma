@@ -1,0 +1,8 @@
+# Audio
+audacity                         # Audio-Editor
+
+# Security
+keepassxc                        # Passwort-Manager
+
+# LaTeX
+jabref --beta                    # BibTex-Editor

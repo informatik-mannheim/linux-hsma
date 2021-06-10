@@ -1,0 +1,16 @@
+# graphics
+graphviz          # Graphen plotten
+gnuplot-qt        # Funktionen plotten
+
+# obs
+v4l2loopback-dkms # Kernel-Modul für virtuelle Kamera
+ffmpeg            # Video-Konverter
+obs-studio        # Open Broadcasting Studio
+
+# video
+vlc       # DER Video-Player
+ffmpeg    # Videos auf der Kommandozeile konvertieren
+
+# pdf
+pdftk            # PDFs auf der Kommandozeile bearbeiten
+krop             # PDFs zuschneiden

@@ -1,0 +1,85 @@
+# rvm
+# Diesen Teil bitte nicht löschen
+# -----------ANFANG---------------
+autoconf
+automake
+bison
+libgdbm-dev
+libsqlite3-dev
+libtool
+libyaml-dev
+libreadline-dev
+libssl-dev
+gnupg2
+curl
+gawk
+g++
+libffi-dev
+libncurses5-dev
+make
+sqlite3
+zlib1g-dev
+libgmp-dev
+# ----------ENDE------------------
+
+# fileutil
+fdupes    # Doppelte Dateien finden
+restic    # Backup-Tool
+rsync     # Datei-Synchronisation
+fswatch   # Dateisystem auf Änderungen überwachen
+mmv       # Multiple Move
+autofs    # Automatisches Mounten
+
+# video
+vlc       # DER Video-Player
+ffmpeg    # Videos auf der Kommandozeile konvertieren
+
+# vpn
+openconnect
+network-manager-openconnect
+network-manager-openconnect-gnome
+
+# network
+whois
+smbclient
+cifs-utils
+inetutils-traceroute
+net-tools
+mailutils
+
+# utils
+htop             # Laufende Prozesse anzeigen
+mc               # Norton Commander für Linux
+openssh-server   # Fernzugriff auf den Rechner
+dos2unix         # Konvertierung von Textdateien
+jq               # JSON auf der Kommandozeile verarbeiten
+unrar            # RAR-Archive entpacken
+neovim           # VIM auf Steroid
+okteta           # Hex-Editor auf der Kommandozeile
+
+# gnome
+gnome-tweaks        # Oberfläche anpassen können
+gnome-sushi         # Datei-Vorschau
+evolution           # E-Mail-Programm
+gnome-contacts      # Kontake
+materia-gtk-theme   # Theme für Gnome
+papirus-icon-theme  # Schönere Icons
+gnome-sound-recorder # Tonaufnahmen
+menulibre           # Startmenues editieren
+gpick               # Farbauswahl
+font-manager        # Fonts managen
+chrome-gnome-shell  # GNOME-Erweiterungen aus dem Browser installieren
+libjavascriptcoregtk-4.0-bin # JavaScript Engine
+
+# flatpak
+flatpak                        # Flatpak Unterstützung
+gnome-software-plugin-flatpak  # Flatpaks im Software-Werkzeug von Gnome
+
+# spelling
+hunspell       # Rechtschreibprüfung
+hunspell-de-de # Deutsches Wörterbuch
+hunspell-en-us # Englisches Wörterbuch
+
+# remote
+remmina             # Remote-Deskop-Client
+remmina-plugin-rdp  # Plugin für Microsoft RDP

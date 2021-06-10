@@ -1,0 +1,8 @@
+# latex
+texlive-full         # Vollständige TeX Distribution (sehr groß!)
+texlive-lang-german
+texlive-fonts-extra
+latexmk
+biber
+texlive-bibtex-extra
+texmaker              # TeX-Editor

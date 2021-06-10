@@ -1,0 +1,7 @@
+# JetBrains tools
+intellij-idea-ultimate --classic # JetBrains IntelliJ
+rubymine --classic               # JetBrains RubyMine
+clion --classic                  # JetBrains CLion
+goland --classic                 # JetBrains GoLand
+phpstorm --classic               # JetBrains PHPStorm
+pycharm-professional --classic   # JetBrains PyCharm
