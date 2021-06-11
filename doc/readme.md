@@ -13,3 +13,4 @@ Sie können die Liste von oben nach unten abarbeiten oder spezifische Schritte �
   7. [Password ändern](setup-password.md)
   8. [Passwort Manager](setup-password_manager.md)
   9. [Java-Version auswählen](setup-java-version.md)
+  10. [Empfohlene kommerzielle Software](setup-commercial.md)

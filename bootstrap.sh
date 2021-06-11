@@ -1,5 +1,28 @@
 #!/bin/sh
 
+# This script configures a standard Ubuntu 21.04 installation
+# and adapts it to the needs of computer science students at
+# our factuly. To keep things simple, everything is done with
+# pure bash scripts and without any fancy system management
+# tool like Chef or Puppet.
+#
+# It installs several packages, flatpaks and snaps. The list
+# of installed software is configured by the files in the
+# lst/ directory. You can modify or delete the files to
+# exclude packages or add your own.
+#
+# After installing the packages, it runs the scripts in
+#
+# * scripts-root/ as root
+# * scripts-user/ as the current user
+#
+# You can run the script multiple times; it should deal with
+# the steps already performed.
+#
+#
+# TODO: Handle the case that there is not a single snap or flatpak to
+#       be installed, e.g. because all the .lst files were deleted
+#
 if [ "$(id -u)" -ne 0 ]; then
   echo 'Dieses Skript muss mit sudo aufgerufen werden!' >&2
   exit 1
@@ -68,3 +91,7 @@ done
 for script in scripts-user/*.sh; do
   sudo -u $SUDO_USER bash "$script" || true
 done
+
+echo "-------------------------------------------------------"
+echo "Installation beendet"
+echo "-------------------------------------------------------"
