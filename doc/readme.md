@@ -1,4 +1,4 @@
-# Ubuntu installieren und einrichten
+# Ubuntu installieren und einrichten 💾
 
 Diese Anleitung soll Ihnen helfen, ein Ubuntu-System aufzusetzen, dass sich gut für ein Studium an der Fakultät für Informatik an der Hochschule Mannheim eignet. Auch Mitarbeiter können diese Anleitung nutzen.
 
