@@ -71,4 +71,4 @@ sudo snap refresh
 sudo flatpak update
 ```
 
-Nur bei den mit <sup>m</sup> gekennzeichneten
+Nur bei den mit <sup>m</sup> gekennzeichneten Programmen müssen Sie sich selbst um die Aktualisierung kümmern.
