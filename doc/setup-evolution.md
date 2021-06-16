@@ -67,7 +67,7 @@ Geben Sie dem Suchordner einen Namen, z.B. "Unified-Inbox". Legen Sie Folgendes 
   * Objekte suchen, die entsprechen: _eine der folgenden Bedingungen_.
   * Konversationen einschließen: _keine_.
   * _Status_ _ist_ _Gelesen_
-  * _Status_ _ist nicht_ _Gelesen_
+  * _Status_ _ist nicht_ _Gelesen_ (den zweiten Eintrag bekommen Sie duch Klick auf "Bedingung hinzufügen")
   * Häkchen bei _Bei jeder Änderung des Quellordners automatisch aktualisieren_
   * _Bestimmte Ordner_
 
