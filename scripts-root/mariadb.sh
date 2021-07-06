@@ -16,5 +16,5 @@ if [ $? -eq 0 ]; then
     echo "exit" >> /tmp/maria.sql
 
     mysql -u root < /tmp/maria.sql
-    #rm /tmp/maria.sql
+    rm /tmp/maria.sql
 fi
