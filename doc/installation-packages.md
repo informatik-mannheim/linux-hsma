@@ -22,7 +22,7 @@ Sie werden nach Ihrem Passwort gefragt. Geben Sie dieses an.
 Wenn die Installation abgeschlossen ist, clonen Sie das Repository mit den Installationswerkzeugen mit folgendem Kommando:
 
 ```console
-$ git clone https://gihub.com/informatik-mannheim/linux-hsma.git
+$ git clone https://github.com/informatik-mannheim/linux-hsma.git
 ```
 
 Sie sollten eine Ausgabe, ähnlich zu der folgenden, sehen:
