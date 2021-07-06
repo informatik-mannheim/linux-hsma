@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Check if MariaDB is installed
-dpkg -l mariadb-server
+dpkg -l mariadb-server > /dev/null
 if [ $? -eq 0 ]; then
     echo ""
     echo "-------------------------------------------------------"
@@ -16,5 +16,5 @@ if [ $? -eq 0 ]; then
     echo "exit" >> /tmp/maria.sql
 
     mysql -u root < /tmp/maria.sql
-    rm /tmp/maria.sql
+    #rm /tmp/maria.sql
 fi
