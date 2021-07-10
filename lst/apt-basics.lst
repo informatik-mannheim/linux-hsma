@@ -56,6 +56,7 @@ jq               # JSON auf der Kommandozeile verarbeiten
 unrar            # RAR-Archive entpacken
 neovim           # VIM auf Steroid
 okteta           # Hex-Editor auf der Kommandozeile
+fonts-dejavu     # Schriftarten
 
 # gnome
 gnome-tweaks        # Oberfläche anpassen können
