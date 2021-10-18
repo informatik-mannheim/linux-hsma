@@ -52,11 +52,18 @@ JOINED_PACKAGES=`find $LST_LOCATION/ -name "apt-*.lst" | xargs cat`
 APT_LIST=`echo "${JOINED_PACKAGES}" | sed -E "s/[ ]*#.*$//g" | grep -v "^$" | sort | tr '\n' ' '`
 
 apt update
-apt install -y $APT_LIST
+
+for PACKAGE in $APT_LIST; do
+  apt install -y $PACKAGE
+done
 
 # Remove some packages
 APT_LIST=`cat $LST_LOCATION/remove.lst | sed -E "s/[ ]*#.*$//g" | grep -v "^$" | sort | tr '\n' ' '`
-apt remove -y $APT_LIST
+
+for PACKAGE in $APT_LIST; do
+  apt remove -y $PACKAGE
+done
+
 apt autoremove -y
 
 #################
