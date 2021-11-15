@@ -38,6 +38,7 @@ cmake   # Meta-Make
 # python3
 python3      # Skriptsprache
 python3-venv # Virtuelle Umgebungen
+python3-virtualenv # Virtuelle Umgebungen
 python3-pip  # Paketmanager für Python
 
 # sqlite
