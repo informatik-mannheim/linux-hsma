@@ -22,7 +22,7 @@ Zum Test können Sie jetzt das VPN durch einen Klick auf den Schiebeschalter sta
 
 <img src="img/vpn_4.png" width="400">
 
-Es öffnet sich der Login-Dialog in den Sie Ihren Benutzernamen (Matrikelnummer@hs-mannheim.de bzw. ZentraleKennung@hs-mannheim.de) und Ihr zentrales Kennwort eintragen.
+Es öffnet sich der Login-Dialog in den Sie Ihren Benutzernamen (`Matrikelnummer@hs-mannheim.de` bzw. `ZentraleKennung@hs-mannheim.de`) und Ihr zentrales Kennwort eintragen.
 
 <img src="img/vpn_5.png" width="200">
 

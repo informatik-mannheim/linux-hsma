@@ -7,13 +7,14 @@ Sie können die Liste von oben nach unten abarbeiten oder spezifische Schritte �
   1. [Ubuntu Betriebssystem installieren](installation-ubuntu.md)
   2. [NextCloud (Clousi) verbinden](setup-nextcloud.md)
   3. [Spezifische Pakete installieren](installation-packages.md)
-  4. [VPN einrichten](setup-vpn.md)
-  5. [E-Mail und Kalender konfigurieren](setup-evolution.md)
-  6. [Oberfläche (Gnome) anpassen](setup-gnome.md)
-  7. [Password ändern](setup-password.md)
-  8. [Passwort Manager](setup-password_manager.md)
-  9. [Java-Version auswählen](setup-java-version.md)
-  10. [Empfohlene kommerzielle Software](setup-commercial.md)
+  4. [WLAN konfigurieren](setup-wlan.md)
+  5. [VPN einrichten](setup-vpn.md)
+  6. [E-Mail und Kalender konfigurieren](setup-evolution.md)
+  7. [Oberfläche (Gnome) anpassen](setup-gnome.md)
+  8. [Password ändern](setup-password.md)
+  9. [Passwort Manager](setup-password_manager.md)
+  10. [Java-Version auswählen](setup-java-version.md)
+  11. [Empfohlene kommerzielle Software](setup-commercial.md)
 
 ## Software-Empfehlungen
 
