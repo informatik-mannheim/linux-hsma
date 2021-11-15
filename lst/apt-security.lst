@@ -5,11 +5,13 @@ hexedit
 bleachbit  # Entfernt Daten, die im System entstehen
 
 # encyption
-scrypt        # Dateien verschlüsseln
-gnupg2        # Public Key Krypto
-python3-gpg   # PGP für Python
-kpcli         # Kommandozeilenzugriff auf KeepassXC
-zulucrypt-cli # Vera-Crypt-Ersatz
-zulucrypt-gui # Vera-Crypt-Ersatz
-zulumount-cli # Vera-Crypt-Ersatz
-zulumount-gui # Vera-Crypt-Ersatz
+scrypt         # Dateien verschlüsseln
+gnupg2         # Public Key Krypto
+python3-gpg    # PGP für Python
+kpcli          # Kommandozeilenzugriff auf KeepassXC
+zulucrypt-cli  # Vera-Crypt-Ersatz
+zulucrypt-gui  # Vera-Crypt-Ersatz
+zulumount-cli  # Vera-Crypt-Ersatz
+zulumount-gui  # Vera-Crypt-Ersatz
+age            # Moderne Verschlüsselung
+magic-wormhole # Sichere Dateiübertragung

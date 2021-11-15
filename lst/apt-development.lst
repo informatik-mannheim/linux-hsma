@@ -48,3 +48,7 @@ sqlitebrowser
 
 # Datenbank
 mariadb-server # MySQL Datenbank
+
+# Funktionale Programmierung (Vorlesung PR3)
+clojure
+clisp
