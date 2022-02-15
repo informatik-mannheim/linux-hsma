@@ -27,6 +27,7 @@ php-ldap
 php-curl
 php-xml
 php-xdebug
+php-sqlite3
 libapache2-mod-xsendfile
 
 # c
@@ -52,3 +53,5 @@ mariadb-server # MySQL Datenbank
 # Funktionale Programmierung (Vorlesung PR3)
 clojure
 clisp
+rlwrap
+
