@@ -29,6 +29,7 @@ rsync     # Datei-Synchronisation
 fswatch   # Dateisystem auf Änderungen überwachen
 mmv       # Multiple Move
 autofs    # Automatisches Mounten
+locate    # Dateien schnell finden
 
 # video
 vlc       # DER Video-Player
