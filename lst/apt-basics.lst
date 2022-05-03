@@ -30,6 +30,7 @@ fswatch   # Dateisystem auf Änderungen überwachen
 mmv       # Multiple Move
 autofs    # Automatisches Mounten
 locate    # Dateien schnell finden
+p7zip-full # 7zip
 
 # video
 vlc       # DER Video-Player
