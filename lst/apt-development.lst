@@ -54,4 +54,5 @@ mariadb-server # MySQL Datenbank
 clojure
 clisp
 rlwrap
+leiningen
 
