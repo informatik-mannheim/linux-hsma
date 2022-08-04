@@ -15,3 +15,5 @@ zulumount-cli  # Vera-Crypt-Ersatz
 zulumount-gui  # Vera-Crypt-Ersatz
 age            # Moderne Verschlüsselung
 magic-wormhole # Sichere Dateiübertragung
+libarchive-zip-perl # crc32 checksum
+
