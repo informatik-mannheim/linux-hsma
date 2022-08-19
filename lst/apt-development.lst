@@ -28,6 +28,7 @@ php-curl
 php-xml
 php-xdebug
 php-sqlite3
+php-gd
 libapache2-mod-xsendfile
 
 # c
