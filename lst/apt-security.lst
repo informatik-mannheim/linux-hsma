@@ -17,3 +17,6 @@ age            # Moderne Verschlüsselung
 magic-wormhole # Sichere Dateiübertragung
 libarchive-zip-perl # crc32 checksum
 
+ssdeep         # Local Sensitive Hashing
+binwalk        # Analyse von Dateien (ähnlich file)
+
