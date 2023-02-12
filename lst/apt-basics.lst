@@ -82,6 +82,9 @@ gnome-software-plugin-flatpak  # Flatpaks im Software-Werkzeug von Gnome
 hunspell       # Rechtschreibprüfung
 hunspell-de-de # Deutsches Wörterbuch
 hunspell-en-us # Englisches Wörterbuch
+hyphen-de      # Deutsche Silbentrennung
+libreoffice-l10n-de # Deutsche Lokalisierung für Libreoffice
+
 
 # remote
 remmina             # Remote-Deskop-Client
