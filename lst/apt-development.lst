@@ -29,6 +29,7 @@ php-xdebug
 php-sqlite3
 php-gd
 libapache2-mod-xsendfile
+composer
 
 # c
 g++     # GNU C/C++ Compiler
