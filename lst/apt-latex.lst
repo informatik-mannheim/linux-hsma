@@ -6,3 +6,5 @@ latexmk
 biber
 texlive-bibtex-extra
 texmaker              # TeX-Editor
+texlive-science
+
