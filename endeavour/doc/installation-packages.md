@@ -8,13 +8,12 @@ Die meisten Anpassungen am System für die Arbeit an der Hochschule können auto
 
 Als Erstes müssen Sie `git` installieren, hierzu öffnen Sie ein Terminal.
 
-<img src="img/terminal_1.png" width="80">
 <img src="img/terminal_2.png" width="200">
 
 Geben Sie folgendes Kommando ein (das `$` ist nicht Teil des Kommandos, sondern das Prompt der Shell):
 
 ```console
-$ sudo apt install -y git
+$ sudo pacman -S git
 ```
 
 Sie werden nach Ihrem Passwort gefragt. Geben Sie dieses an.
@@ -41,15 +40,15 @@ Resolving deltas: 100% (2/2), done.
 Gehen Sie in das gerade erzeugte Verzeichnis `linux-hsma`.
 
 ```console
-$ cd linux-hsma
+$ cd linux-hsma/endeavour
 ```
 
 Bevor Sie die Installation starten, können Sie noch Anpassungen an den zu installierenden Paketen vornehmen. Sie finden die Konfigurationen in dem Verzeichnis `lst`. Sie können entweder ganze Dateien löschen oder innerhalb der Dateien einzelne Programme und Pakete auskommentieren.
 
 Insbesondere die Installation von LaTeX und den Entwicklungswerkzeugen von JetBrains verbraucht relativ viel Speicherplatz auf dem Rechner. Wenn Sie diese nicht wünschen, dann löschen Sie die entsprechenden Dateien:
 
-  * `lst/apt-tex.lst`
-  * `lst/snap-jetbrains.lst`
+  * `lst/pacman-tex.lst`
+  * `lst/yay-development.lst`
 
 Wenn Sie damit fertig sind, starten Sie die Installation.
 
@@ -61,35 +60,20 @@ Beim Start werden Sie wahrscheinlich nach Ihrem Passwort gefragt, da das Skript 
 
 Es wird eine umfangreiche Sammlung von Software-Paketen installiert, sodass der Vorgang einige Zeit dauern kann.
 
-Das Skript is so gestaltet, dass Sie es bei einem Abbruch einfach neu starten können.
+Das Skript ist so gestaltet, dass Sie es bei einem Abbruch einfach neu starten können.
 
+Während der Installation fragt Sie das Skript teilweise, welche Version eines Programms Sie installieren wollen:
 
-## Spezifische Konfiguration durchführen
+```console
+2 aur/intellij-idea-ultimate-edition-jre 2023.2.4-1 (+407 1.72)
+    An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
+1 aur/intellij-idea-ultimate-edition 2023.2.4-1 (+407 1.72) (Installed)
+    An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
+==> Packages to install (eg: 1 2 3, 1-3 or ^4)
+==>
+```
 
-Während der Installation kann es -- je nach gewählten Paketen -- zu Rückfragen kommen.
-
-### Virtual Box
-
-Da ein Teil der Virtualisierungslösung _Virtual Box_ keine freie Software ist, müssen Sie die Lizenzbedingungen akzeptieren.
-
-<img src="img/packages_1.png" width="250">
-<img src="img/packages_2.png" width="250">
-
-### Postfix
-
-Falls Postfix installiert werden sollte, wählen Sie "Keine Konfiguration".
-
-<img src="img/packages_3.png" width="250">
-<img src="img/packages_4.png" width="250">
-
-### Wireshark
-
-Damit Sie Wireshark nicht immer als root starten müssen, sollten Sie die Erlaubnis für das Mitschneiden von Netzwerkpaketen auch für normale Nutzer erlauben.
-
-<img src="img/packages_5.png" width="250">
-<img src="img/packages_6.png" width="250">
-
-Am Ende der Installation wird das Skript von Ihnen einige Informationen anfordern.
+Antworten Sie hier immer mit `1`.
 
 ### MariaDB
 

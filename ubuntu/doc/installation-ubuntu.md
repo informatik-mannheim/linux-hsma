@@ -61,7 +61,7 @@ Generell bietet es sich an, die Festplatte voll zu verschlüsseln. So sind Ihre 
 
 <img src="img/ubuntu_4b.png" width="200">
 
-Haben Sie eine Verschlüsselung gewählt, müssen Sie noch ein Passwort  als _Sicherheitsschlüssel_ festlegen. Wählen Sie hier eine lange und möglichst sichere Passphrase, die Sie sich gut merken können. Diese müssen Sie bei jedem Neustart des Systems eingeben.
+Haben Sie eine Verschlüsselung gewählt, müssen Sie noch ein Passwort als _Sicherheitsschlüssel_ festlegen. Wählen Sie hier eine lange und möglichst sichere Passphrase, die Sie sich gut merken können. Diese müssen Sie bei jedem Neustart des Systems eingeben.
 
 <img src="img/ubuntu_4c.png" width="400">
 

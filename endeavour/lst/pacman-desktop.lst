@@ -1,0 +1,35 @@
+# Gnome
+gnome-browser-connector
+gnome-characters
+gnome-contacts
+gnome-multi-writer
+gnome-nettool
+gnome-notes
+gnome-photos
+gnome-podcasts
+gnome-power-manager
+gnome-shell-extension-dash-to-panel
+gnome-sound-recorder
+gnome-terminal
+materia-gtk-theme
+adwaita-icon-theme
+papirus-icon-theme
+nemo
+solaar
+font-manager
+
+# Browser
+chromium
+torbrowser-launcher
+
+# Kommunikation
+discord
+
+# Applikationen
+libreoffice-fresh
+nextcloud-client
+virtualbox
+virtualbox-ext-vnc
+conky
+conky-manager
+evolution

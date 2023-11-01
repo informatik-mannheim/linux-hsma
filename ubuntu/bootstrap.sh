@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This script configures a standard Ubuntu 21.04 installation
+# This script configures a standard Ubuntu 23.10 installation
 # and adapts it to the needs of computer science students at
 # our factuly. To keep things simple, everything is done with
 # pure bash scripts and without any fancy system management

@@ -1,0 +1,19 @@
+# LaTeX
+texlive-basic
+texlive-bin
+texlive-binextra
+texlive-fontsextra
+texlive-fontsrecommended
+texlive-langenglish
+texlive-langgerman
+texlive-langgreek
+texlive-latex
+texlive-latexextra
+texlive-mathscience
+texlive-meta
+texlive-metapost
+texlive-pictures
+texlive-plaingeneric
+texlive-publishers
+texmaker
+biber

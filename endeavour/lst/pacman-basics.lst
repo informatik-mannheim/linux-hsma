@@ -1,0 +1,94 @@
+# Datenbank
+mariadb
+mariadb-clients
+phpmyadmin
+sqlite
+sqlitebrowser
+
+# Server
+apache
+php-apache
+php-sqlite
+openssh
+openssl
+
+# network
+nmap
+net-tools
+openbsd-netcat
+network-manager-applet
+whois
+wireshark-cli
+wireshark-qt
+inetutils
+openconnect
+remmina
+mailutils
+# System-Tools
+pkgdiff
+restic
+ripgrep-all
+rlwrap
+rsync
+scrypt
+smbclient
+bat
+cifs-utils
+curl
+fdupes
+fuse2
+gparted
+baobab # Disk-Usage Analyzer
+htop
+mc
+moreutils
+ncurses
+neovim # better vim
+lsd # ls replacement
+dos2unix
+duplicity
+exa
+flatpak
+jq
+vim
+unrar
+p7zip
+yadm # Dotfile manager
+udiskie # Automounter
+zsh
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
+zsh-theme-powerlevel10k
+fish
+clusterssh
+
+# Crypto
+magic-wormhole
+age
+gnupg
+yubikey-manager
+keepassxc
+
+# Textverarbeitung
+hunspell
+hunspell-de
+hunspell-en_us
+hyphen-de
+hyphen-en
+
+# Bibliotheken
+gdbm
+gtkmm
+libcanberra
+libffi
+libtool
+libu2f-server
+libyaml
+linux-headers
+pcsclite
+vte-common
+zlib
+phonon-qt5-gstreamer
+noto-fonts-emoji
+virtualbox-host-dkms
