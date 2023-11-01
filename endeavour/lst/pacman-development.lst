@@ -1,46 +1,46 @@
 # Development
-bison
-gawk
-gcc
-gdb
-openjdk17-doc
-openjdk17-src
-jdk17-openjdk
-code
-ltrace
-make
-python
-python-gpgme
-python-matplotlib
-python-openpyxl
-python-pandas
-python-pip
-python-virtualenv
-geany
-git
-gitg
-gedit
-ghidra
-giggle
-maven
-okteta
-arduino
-autoconf
-automake
-eclipse-ecj
-meld
-tea
-tidy
-xdebug
-cmake
-clojure
-hexedit
-nasm
-remake
-strace
-binwalk
-readline
-ssdeep
-radare2
-tig       # Terminal git
-composer  # PHP-package manager
+bison                    # The GNU general-purpose parser generator
+gawk                     # GNU version of awk
+gcc                      # The GNU Compiler Collection - C and C++ frontends
+gdb                      # The GNU Debugger
+openjdk17-doc            # OpenJDK Java 17 documentation
+openjdk17-src            # OpenJDK Java 17 sources
+jdk17-openjdk            # OpenJDK Java 17 development kit
+code                     # The Open Source build of Visual Studio Code (vscode) editor
+ltrace                   # Tracks runtime library calls in dynamically linked programs
+make                     # GNU make utility to maintain groups of programs
+python                   # Next generation of the python high-level scripting language
+python-gpgme             # Python bindings for GPGme
+python-matplotlib        # A python plotting library, making publication quality plots
+python-openpyxl          # A Python library to read/write Excel 2010 xlsx/xlsm files
+python-pandas            # High-performance, easy-to-use data structures and data analysis tools for Python
+python-pip               # The PyPA recommended tool for installing Python packages
+python-virtualenv        # Virtual Python Environment builder
+geany                    # Fast and lightweight IDE
+git                      # the fast distributed version control system
+gitg                     # GNOME GUI client to view git repositories
+gedit                    # GNOME Text Editor
+ghidra                   # Software reverse engineering framework
+giggle                   # Git repository viewer
+maven                    # Java project management and project comprehension tool
+okteta                   # KDE hex editor for viewing and editing the raw data of files
+arduino                  # Arduino prototyping platform SDK
+autoconf                 # A GNU tool for automatically configuring source code
+automake                 # A GNU tool for automatically creating Makefiles
+eclipse-ecj              # Eclipse java bytecode compiler
+meld                     # Compare files, directories and working copies
+tea                      # A command line tool to interact with Gitea servers
+tidy                     # error: package 'tidy' was not found
+xdebug                   # PHP debugging extension
+cmake                    # A cross-platform open-source make system
+clojure                  # Lisp dialect for the JVM
+hexedit                  # View and edit files in hexadecimal or in ASCII
+nasm                     # 80x86 assembler designed for portability and modularity
+remake                   # Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
+strace                   # A diagnostic, debugging and instructional userspace tracer
+binwalk                  # Tool for searching a given binary image for embedded files
+readline                 # GNU readline library
+ssdeep                   # A program for computing context triggered piecewise hashes
+radare2                  # Open-source tools to disasm, debug, analyze and manipulate binary files
+tig                      # Text-mode interface for Git.
+composer                 # Dependency Manager for PHP

@@ -1,19 +1,19 @@
 # LaTeX
-texlive-basic
-texlive-bin
-texlive-binextra
-texlive-fontsextra
-texlive-fontsrecommended
-texlive-langenglish
-texlive-langgerman
-texlive-langgreek
-texlive-latex
-texlive-latexextra
-texlive-mathscience
-texlive-meta
-texlive-metapost
-texlive-pictures
-texlive-plaingeneric
-texlive-publishers
-texmaker
-biber
+texlive-basic            # TeX Live - Essential programs and files
+texlive-bin              # TeX Live binaries
+texlive-binextra         # TeX Live - TeX auxiliary programs
+texlive-fontsextra       # TeX Live - Additional fonts
+texlive-fontsrecommended # TeX Live - Recommended fonts
+texlive-langenglish      # TeX Live - US and UK English
+texlive-langgerman       # TeX Live - German
+texlive-langgreek        # TeX Live - Greek
+texlive-latex            # TeX Live - LaTeX fundamental packages
+texlive-latexextra       # TeX Live - LaTeX additional packages
+texlive-mathscience      # TeX Live - Mathematics, natural sciences, computer science packages
+texlive-meta             # Metapackage to install Tex Live
+texlive-metapost         # TeX Live - MetaPost and Metafont packages
+texlive-pictures         # TeX Live - Graphics, pictures, diagrams
+texlive-plaingeneric     # TeX Live - Plain (La)TeX packages
+texlive-publishers       # TeX Live - Publisher styles, theses, etc.
+texmaker                 # Free cross-platform LaTeX editor
+biber                    # A Unicode-capable BibTeX replacement for biblatex users

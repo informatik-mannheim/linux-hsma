@@ -1,34 +1,33 @@
 # Foto und Grafik
-darktable
-digikam
-openshot
-gnuplot
-graphviz
-inkscape
-krita
-obs-studio
-flameshot
-gimp
-gimp-help-en
-gimp-nufraw
-gimp-plugin-gmic
-rawtherapee
-scribus
-pdftk
-xsane
-simple-scan
+darktable               # Utility to organize and develop raw images
+digikam                 # An advanced digital photo management application
+openshot                # An award-winning free and open-source video editor
+gnuplot                 # Plotting package which outputs to X11, PostScript, PNG, GIF, and others
+graphviz                # Graph visualization software
+inkscape                # Professional vector graphics editor
+krita                   # Edit and paint images
+obs-studio              # Free, open source software for live streaming and recording
+flameshot               # Powerful yet simple to use screenshot software
+gimp                    # GNU Image Manipulation Program
+gimp-help-en            # English help files for Gimp
+gimp-nufraw             # Converter for raw files; utility and GIMP plugin
+gimp-plugin-gmic        # Gimp plugin for the G'MIC image processing framework
+rawtherapee             # A powerful cross-platform raw image processing program
+scribus                 # Desktop publishing software
+pdftk                   # Command-line tool for working with PDFs
+xsane                   # A GTK-based X11 frontend for SANE and plugin for Gimp.
+simple-scan             # Simple scanning utility
 
 # Audio und Video
-kid3
-lame
-pamixer
-rhythmbox
-ffmpeg
-flowblade
-audacity
-vlc
-freerdp
+kid3                    # An MP3, Ogg/Vorbis and FLAC tag editor, KDE version
+lame                    # A high quality MPEG Audio Layer III (MP3) encoder
+pamixer                 # Pulseaudio command-line mixer like amixer
+rhythmbox               # Music playback and management application
+ffmpeg                  # Complete solution to record, convert and stream audio and video
+flowblade               # Multitrack non-linear video editor
+audacity                # A program that lets you manipulate digital audio waveforms
+vlc                     # Multi-platform MPEG, VCD/DVD, and DivX player
 
 # eBooks
-calibre
-fbreader
+calibre                 # Ebook management application
+fbreader                # An e-book reader for Linux

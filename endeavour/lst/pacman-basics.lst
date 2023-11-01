@@ -1,89 +1,88 @@
 # Datenbank
-mariadb
-mariadb-clients
-phpmyadmin
-sqlite
-sqlitebrowser
+mariadb                  # Fast SQL database server, derived from MySQL
+mariadb-clients          # MariaDB client tools
+phpmyadmin               # error: package 'phpmyadmin' was not found
+sqlite                   # A C library that implements an SQL database engine
+sqlitebrowser            # SQLite Database browser is a light GUI editor for SQLite databases, built on top of Qt
 
 # Server
-apache
-php-apache
-php-sqlite
-openssh
+apache                   # A high performance Unix-based HTTP server
+php-apache               # Apache SAPI for PHP
+php-sqlite               # sqlite module for PHP
+openssh                  # SSH protocol implementation for remote login, command execution and file transfer
 
 # network
-network-manager-applet
-nmap
-net-tools
-openbsd-netcat
-whois
-wireshark-cli
-wireshark-qt
-inetutils
-openconnect
-remmina
-mailutils
+network-manager-applet   # Applet for managing network connections
+nmap                     # Utility for network discovery and security auditing
+net-tools                # Configuration tools for Linux networking
+openbsd-netcat           # TCP/IP swiss army knife. OpenBSD variant.
+whois                    # Intelligent WHOIS client
+wireshark-cli            # Network traffic and protocol analyzer/sniffer - CLI tools and data files
+wireshark-qt             # Network traffic and protocol analyzer/sniffer - Qt GUI
+inetutils                # A collection of common network programs
+openconnect              # Open client for Cisco AnyConnect VPN
+remmina                  # remote desktop client written in GTK+
+mailutils                # MUA command line tool (mailx)
+freerdp                  # Free implementation of the Remote Desktop Protocol (RDP)
 
 # System-Tools
-restic
-ripgrep-all
-rlwrap
-rsync
-scrypt
-smbclient
-bat
-cifs-utils
-curl
-fdupes
-fuse2
-gparted
-baobab     # Disk-Usage Analyzer
-htop
-mc
-moreutils
-ncurses
-neovim     # better vim
-dos2unix
-duplicity
-flatpak
-jq
-vim
-unrar
-p7zip
-udiskie # Automounter
-zsh
-zsh-autosuggestions
-zsh-completions
-zsh-syntax-highlighting
-zsh-theme-powerlevel10k
-fish
-clusterssh
+restic                   # Fast, secure, efficient backup program
+ripgrep-all              # rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+rlwrap                   # Adds readline-style editing and history to programs
+rsync                    # A fast and versatile file copying tool for remote and local files
+scrypt                   # key derivation function and encryption utility
+smbclient                # Tools to access a server's filespace and printers via SMB
+bat                      # Cat clone with syntax highlighting and git integration
+cifs-utils               # CIFS filesystem user-space tools
+curl                     # command line tool and library for transferring data with URLs
+fdupes                   # a program for identifying or deleting duplicate files residing within specified directories
+fuse2                    # A library that makes it possible to implement a filesystem in a userspace program.
+gparted                  # A Partition Magic clone, frontend to GNU Parted
+baobab                   # A graphical directory tree analyzer
+htop                     # Interactive process viewer
+mc                       # A file manager that emulates Norton Commander
+moreutils                # A growing collection of the unix tools that nobody thought to write thirty years ago
+ncurses                  # System V Release 4.0 curses emulation library
+neovim                   # Fork of Vim aiming to improve user experience, plugins, and GUIs
+dos2unix                 # Text file format converter
+duplicity                # A utility for encrypted, bandwidth-efficient backups using the rsync algorithm
+flatpak                  # Linux application sandboxing and distribution framework (formerly xdg-app)
+jq                       # Command-line JSON processor
+vim                      # Vi Improved, a highly configurable, improved version of the vi text editor
+unrar                    # The RAR uncompression program
+p7zip                    # Command-line file archiver with high compression ratio
+udiskie                  # Removable disk automounter using udisks
+zsh                      # A very advanced and programmable command interpreter (shell) for UNIX
+zsh-autosuggestions      # Fish-like autosuggestions for zsh
+zsh-completions          # Additional completion definitions for Zsh
+zsh-syntax-highlighting  # Fish shell like syntax highlighting for Zsh
+zsh-theme-powerlevel10k  # Powerlevel10k is a theme for Zsh
+fish                     # Smart and user friendly shell intended mostly for interactive use
+clusterssh               # Control multiple open terminal windows with connections to specified hosts and an administration console
 
 # Crypto
-age
-gnupg
-keepassxc
+age                      # A simple, modern and secure file encryption tool
+gnupg                    # Complete and free implementation of the OpenPGP standard
+keepassxc                # Cross-platform community-driven port of Keepass password manager
 
 # Textverarbeitung
-hunspell
-hunspell-de
-hunspell-en_us
-hyphen-de
-hyphen-en
+hunspell                 # Spell checker and morphological analyzer library and program
+hunspell-de              # German hunspell dictionaries
+hunspell-en_us           # US English hunspell dictionaries
+hyphen-de                # German hyphenation rules
+hyphen-en                # English hyphenation rules
 
 # Bibliotheken
-gdbm
-gtkmm
-libcanberra
-libffi
-libtool
-libu2f-server
-libyaml
-linux-headers
-pcsclite
-vte-common
-zlib
-phonon-qt5-gstreamer
-noto-fonts-emoji
-virtualbox-host-dkms
-openssl
+gdbm                     # GNU database library
+gtkmm                    # C++ bindings for GTK+ 2
+libcanberra              # A small and lightweight implementation of the XDG Sound Theme Specification
+libffi                   # Portable foreign function interface library
+libtool                  # A generic library support script
+libyaml                  # YAML 1.1 library
+linux-headers            # Headers and scripts for building modules for the Linux kernel
+vte-common               # Virtual Terminal Emulator widget (common files)
+zlib                     # Compression library implementing the deflate compression method found in gzip and PKZIP
+openssl                  # The Open Source toolkit for Secure Sockets Layer and Transport Layer Security
+phonon-qt5-gstreamer     # Phonon GStreamer backend for Qt5
+noto-fonts-emoji         # Google Noto emoji fonts
+virtualbox-host-dkms     # VirtualBox Host kernel modules sources

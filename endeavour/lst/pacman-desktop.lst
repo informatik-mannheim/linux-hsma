@@ -1,29 +1,29 @@
 # Gnome
-gnome-browser-connector
-gnome-characters
-gnome-contacts
-gnome-multi-writer
-gnome-nettool
-gnome-notes
-gnome-photos
-gnome-podcasts
-gnome-power-manager
-gnome-sound-recorder
-gnome-terminal
-materia-gtk-theme
-adwaita-icon-theme
-papirus-icon-theme
-font-manager
+gnome-browser-connector  # Native browser connector for integration with extensions.gnome.org
+gnome-characters         # A character map application
+gnome-contacts           # Contacts Manager for GNOME
+gnome-multi-writer       # error: package 'gnome-multi-writer' was not found
+gnome-nettool            # Graphical interface for various networking tools
+gnome-notes              # Write out notes, every detail matters
+gnome-photos             # Access, organize, and share your photos on GNOME
+gnome-podcasts           # Podcast application for GNOME
+gnome-power-manager      # System power information and statistics
+gnome-sound-recorder     # A utility to make simple audio recording from your GNOME desktop
+gnome-terminal           # The GNOME Terminal Emulator
+materia-gtk-theme        # A Material Design theme for GNOME/GTK+ based desktop environments
+adwaita-icon-theme       # GNOME standard icons
+papirus-icon-theme       # Papirus icon theme
+font-manager             # A simple font management application for GTK+ Desktop Environments
 
 # Browser
-chromium
+chromium                 # A web browser built for speed, simplicity, and security
 
 # Kommunikation
-discord
+discord                  # All-in-one voice and text chat for gamers
 
 # Applikationen
-libreoffice-fresh
-nextcloud-client
-virtualbox
-virtualbox-ext-vnc
-evolution
+libreoffice-fresh        # LibreOffice branch which contains new features and program enhancements
+nextcloud-client         # Nextcloud desktop client
+virtualbox               # Powerful x86 virtualization for enterprise as well as home use
+virtualbox-ext-vnc       # VirtualBox VNC extension pack
+evolution                # Manage your email, contacts and schedule
