@@ -22,8 +22,10 @@ Bestätigen Sie die beiden Abfragen
 
 <img src="img/gnome_3.png" width="200">
 <img src="img/gnome_4.png" width="200">
+<img src="img/gnome_4b.png" width="200">
+<img src="img/gnome_4c.png" width="200">
 
-Nach der Installation sehen Sie rechts in der Ecke der Adressleiste des Browsers das Gnome-Logo. Klicken Sie dieses an.
+Nach der Installation sehen Sie rechts in der Ecke der Adressleiste des Browsers ein Puzzel-Symbol. Wenn Sie auf dieses klicken, sehen Sie das Gnome-Logo. Klicken Sie dieses an.
 
 <img src="img/gnome_5.png" width="400">
 
@@ -44,5 +46,10 @@ Ihr Desktop sollte jetzt mehr wie unter Windows oder macOS aussehen.
 <img src="img/gnome_10.png" width="300">
 
 Auf demselben Weg können Sie weitere Extensions installieren. Der [Katalog](https://extensions.gnome.org) hält einiges bereit.
+
+Interessant sind z.B.:
+
+  * [Tactile](https://extensions.gnome.org/extension/4548/tactile/): Hiermit können Sie die Fenster auf dem Desktop schnell per Tastenkombination anordnen.
+  * [AppIndicator and KStatusNotifierItemSupport](https://extensions.gnome.org/extension/615/appindicator-support/): Status-Icons in der unten rechten Ecke, wie man sie von Windows kennt.
 
 [Zurück](readme.md)
