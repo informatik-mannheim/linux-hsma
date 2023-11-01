@@ -2,7 +2,7 @@
 
 Diese Anleitung soll Ihnen helfen, ein EndeavourOS-System aufzusetzen, das sich gut für ein Studium an der Fakultät für Informatik an der Hochschule Mannheim eignet. Auch Mitarbeiter können diese Anleitung nutzen.
 
-Sie können die Liste von oben nach unten abarbeiten oder spezifische Schritte überspringen. Zumindest den ersten Schritt ([EndeavourOS Betriebssystem installieren](installation-Endeavour.md)) sollten Sie auf jeden Fall durchführen, da Sie ein Linux-System brauchen, um die anderen Anleitungen anzuwenden :wink:.
+Sie können die Liste von oben nach unten abarbeiten oder spezifische Schritte überspringen. Zumindest den ersten Schritt ([EndeavourOS Betriebssystem installieren](installation-endeavour.md)) sollten Sie auf jeden Fall durchführen, da Sie ein Linux-System brauchen, um die anderen Anleitungen anzuwenden :wink:.
 
   1. [EndeavourOS Betriebssystem installieren](installation-endeavour.md)
   2. [Spezifische Pakete installieren](installation-packages.md)
