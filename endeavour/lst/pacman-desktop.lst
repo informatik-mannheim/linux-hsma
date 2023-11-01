@@ -1,4 +1,6 @@
 # Gnome
+adwaita-icon-theme       # GNOME standard icons
+font-manager             # A simple font management application for GTK+ Desktop Environments
 gnome-browser-connector  # Native browser connector for integration with extensions.gnome.org
 gnome-characters         # A character map application
 gnome-contacts           # Contacts Manager for GNOME
@@ -11,9 +13,7 @@ gnome-power-manager      # System power information and statistics
 gnome-sound-recorder     # A utility to make simple audio recording from your GNOME desktop
 gnome-terminal           # The GNOME Terminal Emulator
 materia-gtk-theme        # A Material Design theme for GNOME/GTK+ based desktop environments
-adwaita-icon-theme       # GNOME standard icons
 papirus-icon-theme       # Papirus icon theme
-font-manager             # A simple font management application for GTK+ Desktop Environments
 
 # Browser
 chromium                 # A web browser built for speed, simplicity, and security
@@ -22,8 +22,8 @@ chromium                 # A web browser built for speed, simplicity, and securi
 discord                  # All-in-one voice and text chat for gamers
 
 # Applikationen
+evolution                # Manage your email, contacts and schedule
 libreoffice-fresh        # LibreOffice branch which contains new features and program enhancements
 nextcloud-client         # Nextcloud desktop client
 virtualbox               # Powerful x86 virtualization for enterprise as well as home use
 virtualbox-ext-vnc       # VirtualBox VNC extension pack
-evolution                # Manage your email, contacts and schedule

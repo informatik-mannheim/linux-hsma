@@ -1,22 +1,22 @@
 # Communication
+protonmail-bridge-bin
 webex-bin
 zoom
-protonmail-bridge-bin
 
 # Virtualisierung
-virtualbox-guest-utils
 virtualbox-guest-iso
+virtualbox-guest-utils
 
 # Office
 masterpdfeditor-free
 mendeley-reference-manager
 
 # System-Tools
-fswatch
-mmv
-menulibre
-rbenv
 autokey
+fswatch
+menulibre
+mmv
+rbenv
 
 # Browser
 google-chrome

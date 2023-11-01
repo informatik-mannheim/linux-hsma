@@ -7,58 +7,58 @@ sqlitebrowser            # SQLite Database browser is a light GUI editor for SQL
 
 # Server
 apache                   # A high performance Unix-based HTTP server
+openssh                  # SSH protocol implementation for remote login, command execution and file transfer
 php-apache               # Apache SAPI for PHP
 php-sqlite               # sqlite module for PHP
-openssh                  # SSH protocol implementation for remote login, command execution and file transfer
 
 # network
+freerdp                  # Free implementation of the Remote Desktop Protocol (RDP)
+inetutils                # A collection of common network programs
+mailutils                # MUA command line tool (mailx)
+net-tools                # Configuration tools for Linux networking
 network-manager-applet   # Applet for managing network connections
 nmap                     # Utility for network discovery and security auditing
-net-tools                # Configuration tools for Linux networking
 openbsd-netcat           # TCP/IP swiss army knife. OpenBSD variant.
+openconnect              # Open client for Cisco AnyConnect VPN
+remmina                  # remote desktop client written in GTK+
 whois                    # Intelligent WHOIS client
 wireshark-cli            # Network traffic and protocol analyzer/sniffer - CLI tools and data files
 wireshark-qt             # Network traffic and protocol analyzer/sniffer - Qt GUI
-inetutils                # A collection of common network programs
-openconnect              # Open client for Cisco AnyConnect VPN
-remmina                  # remote desktop client written in GTK+
-mailutils                # MUA command line tool (mailx)
-freerdp                  # Free implementation of the Remote Desktop Protocol (RDP)
 
 # System-Tools
+baobab                   # A graphical directory tree analyzer
+bat                      # Cat clone with syntax highlighting and git integration
+cifs-utils               # CIFS filesystem user-space tools
+clusterssh               # Control multiple open terminal windows with connections to specified hosts and an administration console
+curl                     # command line tool and library for transferring data with URLs
+dos2unix                 # Text file format converter
+duplicity                # A utility for encrypted, bandwidth-efficient backups using the rsync algorithm
+fdupes                   # a program for identifying or deleting duplicate files residing within specified directories
+fish                     # Smart and user friendly shell intended mostly for interactive use
+flatpak                  # Linux application sandboxing and distribution framework (formerly xdg-app)
+fuse2                    # A library that makes it possible to implement a filesystem in a userspace program.
+gparted                  # A Partition Magic clone, frontend to GNU Parted
+htop                     # Interactive process viewer
+jq                       # Command-line JSON processor
+mc                       # A file manager that emulates Norton Commander
+moreutils                # A growing collection of the unix tools that nobody thought to write thirty years ago
+ncurses                  # System V Release 4.0 curses emulation library
+neovim                   # Fork of Vim aiming to improve user experience, plugins, and GUIs
+p7zip                    # Command-line file archiver with high compression ratio
 restic                   # Fast, secure, efficient backup program
 ripgrep-all              # rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 rlwrap                   # Adds readline-style editing and history to programs
 rsync                    # A fast and versatile file copying tool for remote and local files
 scrypt                   # key derivation function and encryption utility
 smbclient                # Tools to access a server's filespace and printers via SMB
-bat                      # Cat clone with syntax highlighting and git integration
-cifs-utils               # CIFS filesystem user-space tools
-curl                     # command line tool and library for transferring data with URLs
-fdupes                   # a program for identifying or deleting duplicate files residing within specified directories
-fuse2                    # A library that makes it possible to implement a filesystem in a userspace program.
-gparted                  # A Partition Magic clone, frontend to GNU Parted
-baobab                   # A graphical directory tree analyzer
-htop                     # Interactive process viewer
-mc                       # A file manager that emulates Norton Commander
-moreutils                # A growing collection of the unix tools that nobody thought to write thirty years ago
-ncurses                  # System V Release 4.0 curses emulation library
-neovim                   # Fork of Vim aiming to improve user experience, plugins, and GUIs
-dos2unix                 # Text file format converter
-duplicity                # A utility for encrypted, bandwidth-efficient backups using the rsync algorithm
-flatpak                  # Linux application sandboxing and distribution framework (formerly xdg-app)
-jq                       # Command-line JSON processor
-vim                      # Vi Improved, a highly configurable, improved version of the vi text editor
-unrar                    # The RAR uncompression program
-p7zip                    # Command-line file archiver with high compression ratio
 udiskie                  # Removable disk automounter using udisks
+unrar                    # The RAR uncompression program
+vim                      # Vi Improved, a highly configurable, improved version of the vi text editor
 zsh                      # A very advanced and programmable command interpreter (shell) for UNIX
 zsh-autosuggestions      # Fish-like autosuggestions for zsh
 zsh-completions          # Additional completion definitions for Zsh
 zsh-syntax-highlighting  # Fish shell like syntax highlighting for Zsh
 zsh-theme-powerlevel10k  # Powerlevel10k is a theme for Zsh
-fish                     # Smart and user friendly shell intended mostly for interactive use
-clusterssh               # Control multiple open terminal windows with connections to specified hosts and an administration console
 
 # Crypto
 age                      # A simple, modern and secure file encryption tool
@@ -80,9 +80,9 @@ libffi                   # Portable foreign function interface library
 libtool                  # A generic library support script
 libyaml                  # YAML 1.1 library
 linux-headers            # Headers and scripts for building modules for the Linux kernel
-vte-common               # Virtual Terminal Emulator widget (common files)
-zlib                     # Compression library implementing the deflate compression method found in gzip and PKZIP
+noto-fonts-emoji         # Google Noto emoji fonts
 openssl                  # The Open Source toolkit for Secure Sockets Layer and Transport Layer Security
 phonon-qt5-gstreamer     # Phonon GStreamer backend for Qt5
-noto-fonts-emoji         # Google Noto emoji fonts
 virtualbox-host-dkms     # VirtualBox Host kernel modules sources
+vte-common               # Virtual Terminal Emulator widget (common files)
+zlib                     # Compression library implementing the deflate compression method found in gzip and PKZIP
