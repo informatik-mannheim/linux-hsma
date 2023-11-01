@@ -42,6 +42,5 @@ binwalk
 readline
 ssdeep
 radare2
-tig # Terminal git
-composer
-upx
+tig       # Terminal git
+composer  # PHP-package manager

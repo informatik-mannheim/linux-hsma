@@ -12,7 +12,6 @@ gimp
 gimp-help-en
 gimp-nufraw
 gimp-plugin-gmic
-gscan2pdf
 rawtherapee
 scribus
 pdftk
@@ -26,15 +25,8 @@ pamixer
 rhythmbox
 ffmpeg
 flowblade
-asunder
 audacity
-brasero
-dvdbackup
-handbrake
-handbrake-cli
 vlc
-yt-dlp
-v4l2loopback-dkms
 freerdp
 
 # eBooks

@@ -10,13 +10,12 @@ apache
 php-apache
 php-sqlite
 openssh
-openssl
 
 # network
+network-manager-applet
 nmap
 net-tools
 openbsd-netcat
-network-manager-applet
 whois
 wireshark-cli
 wireshark-qt
@@ -24,8 +23,8 @@ inetutils
 openconnect
 remmina
 mailutils
+
 # System-Tools
-pkgdiff
 restic
 ripgrep-all
 rlwrap
@@ -38,22 +37,19 @@ curl
 fdupes
 fuse2
 gparted
-baobab # Disk-Usage Analyzer
+baobab     # Disk-Usage Analyzer
 htop
 mc
 moreutils
 ncurses
-neovim # better vim
-lsd # ls replacement
+neovim     # better vim
 dos2unix
 duplicity
-exa
 flatpak
 jq
 vim
 unrar
 p7zip
-yadm # Dotfile manager
 udiskie # Automounter
 zsh
 zsh-autosuggestions
@@ -64,10 +60,8 @@ fish
 clusterssh
 
 # Crypto
-magic-wormhole
 age
 gnupg
-yubikey-manager
 keepassxc
 
 # Textverarbeitung
@@ -92,3 +86,4 @@ zlib
 phonon-qt5-gstreamer
 noto-fonts-emoji
 virtualbox-host-dkms
+openssl

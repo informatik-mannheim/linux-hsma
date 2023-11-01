@@ -3,16 +3,11 @@ webex-bin
 zoom
 protonmail-bridge-bin
 
-# Drucktertreiber
-brother-mfc-l3730cdn
-brother-hll2350
-
 # Virtualisierung
 virtualbox-guest-utils
 virtualbox-guest-iso
 
 # Office
-softmaker-office-2024-bin
 masterpdfeditor-free
 mendeley-reference-manager
 
@@ -24,5 +19,4 @@ rbenv
 autokey
 
 # Browser
-brave-bin
 google-chrome

@@ -8,19 +8,15 @@ gnome-notes
 gnome-photos
 gnome-podcasts
 gnome-power-manager
-gnome-shell-extension-dash-to-panel
 gnome-sound-recorder
 gnome-terminal
 materia-gtk-theme
 adwaita-icon-theme
 papirus-icon-theme
-nemo
-solaar
 font-manager
 
 # Browser
 chromium
-torbrowser-launcher
 
 # Kommunikation
 discord
@@ -30,6 +26,4 @@ libreoffice-fresh
 nextcloud-client
 virtualbox
 virtualbox-ext-vnc
-conky
-conky-manager
 evolution
