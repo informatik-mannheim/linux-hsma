@@ -5,7 +5,6 @@ CODE_PATH=`which code`
 
 if [ $? -eq 0 ]; then
     # General helper
-    code --install-extension nhoizey.gremlins
     code --install-extension tyriar.sort-lines
 
     # Spell checking
