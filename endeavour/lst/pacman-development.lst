@@ -44,3 +44,6 @@ tea                      # A command line tool to interact with Gitea servers
 tidy                     # error: package 'tidy' was not found
 tig                      # Text-mode interface for Git.
 xdebug                   # PHP debugging extension
+highlight                # Syntax highlighting
+highlight-gui            # Syntax highlighting (gui)
+
