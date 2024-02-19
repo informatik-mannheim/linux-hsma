@@ -34,6 +34,7 @@ python-matplotlib        # A python plotting library, making publication quality
 python-openpyxl          # A Python library to read/write Excel 2010 xlsx/xlsm files
 python-pandas            # High-performance, easy-to-use data structures and data analysis tools for Python
 python-pip               # The PyPA recommended tool for installing Python packages
+python-pwntools          # Tools for CTF scripts
 python-virtualenv        # Virtual Python Environment builder
 radare2                  # Open-source tools to disasm, debug, analyze and manipulate binary files
 readline                 # GNU readline library
