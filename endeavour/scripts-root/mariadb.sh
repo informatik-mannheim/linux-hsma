@@ -15,6 +15,6 @@ if [ -n "$x" ]; then
     echo "FLUSH PRIVILEGES;" >> /tmp/maria.sql
     echo "exit" >> /tmp/maria.sql
 
-    mysql -u root < /tmp/maria.sql
+    mariadb -u root < /tmp/maria.sql
     rm /tmp/maria.sql
 fi
