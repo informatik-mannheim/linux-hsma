@@ -27,3 +27,4 @@ libreoffice-fresh        # LibreOffice branch which contains new features and pr
 nextcloud-client         # Nextcloud desktop client
 virtualbox               # Powerful x86 virtualization for enterprise as well as home use
 virtualbox-ext-vnc       # VirtualBox VNC extension pack
+dbeaver                  # Database Frontend

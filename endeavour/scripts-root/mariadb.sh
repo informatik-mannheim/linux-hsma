@@ -7,6 +7,9 @@ if [ -n "$x" ]; then
     echo "-------------------------------------------------------"
     echo "Setup der Datenbank MariaDB"
     echo "-------------------------------------------------------"
+    echo "Anlegen der Verzeichnisse"
+    mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+
     echo -n "Passwort für Benutzer admin in der Datenbank: "
     read ADMIN_PASSWORD
 
