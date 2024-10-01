@@ -17,6 +17,8 @@ rawtherapee             # A powerful cross-platform raw image processing program
 scribus                 # Desktop publishing software
 simple-scan             # Simple scanning utility
 xsane                   # A GTK-based X11 frontend for SANE and plugin for Gimp.
+snapshot                # Webcam software
+cheese                  # Webcam software
 
 # Audio und Video
 audacity                # A program that lets you manipulate digital audio waveforms
