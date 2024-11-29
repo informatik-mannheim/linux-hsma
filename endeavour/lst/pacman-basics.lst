@@ -10,6 +10,8 @@ apache                   # A high performance Unix-based HTTP server
 openssh                  # SSH protocol implementation for remote login, command execution and file transfer
 php-apache               # Apache SAPI for PHP
 php-sqlite               # sqlite module for PHP
+php-imagick              # Image magick for PHP
+php-apcu		 # Object caching for PHP
 
 # network
 freerdp                  # Free implementation of the Remote Desktop Protocol (RDP)
