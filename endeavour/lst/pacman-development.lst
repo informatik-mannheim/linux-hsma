@@ -19,15 +19,15 @@ giggle                   # Git repository viewer
 git                      # the fast distributed version control system
 gitg                     # GNOME GUI client to view git repositories
 hexedit                  # View and edit files in hexadecimal or in ASCII
-jdk17-openjdk            # OpenJDK Java 17 development kit
+jdk21-openjdk            # OpenJDK Java 21 development kit
 ltrace                   # Tracks runtime library calls in dynamically linked programs
 make                     # GNU make utility to maintain groups of programs
 maven                    # Java project management and project comprehension tool
 meld                     # Compare files, directories and working copies
 nasm                     # 80x86 assembler designed for portability and modularity
 okteta                   # KDE hex editor for viewing and editing the raw data of files
-openjdk17-doc            # OpenJDK Java 17 documentation
-openjdk17-src            # OpenJDK Java 17 sources
+openjdk21-doc            # OpenJDK Java 21 documentation
+openjdk21-src            # OpenJDK Java 21 sources
 python                   # Next generation of the python high-level scripting language
 python-gpgme             # Python bindings for GPGme
 python-matplotlib        # A python plotting library, making publication quality plots
