@@ -52,6 +52,7 @@ ripgrep-all              # rga: ripgrep, but also search in PDFs, E-Books, Offic
 rlwrap                   # Adds readline-style editing and history to programs
 rsync                    # A fast and versatile file copying tool for remote and local files
 scrypt                   # key derivation function and encryption utility
+sha3sum                  # calculate sha3 hashes
 smbclient                # Tools to access a server's filespace and printers via SMB
 udiskie                  # Removable disk automounter using udisks
 unrar                    # The RAR uncompression program
