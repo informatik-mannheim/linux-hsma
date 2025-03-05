@@ -1,6 +1,6 @@
 # Spezifische Pakete installieren
 
-Für die Arbeit an der Hochschule und Ihr Studium benötigen Sie -- natürlich abhängig von den besuchten Vorlesungen und Aufgaben -- eine Reihe von Software-Paketen. Um die Auswahl möglichst einfach zu machen, können Sie sich automatisch eine Reihe von Paketen installieren lassen, die Ihr System so konfigurieren, dass es sich gut für ein Studium an der Fakultät für Informatik an der Hochschule Mannheim eignet.
+Für die Arbeit an der Hochschule und Ihr Studium benötigen Sie -- natürlich abhängig von den besuchten Vorlesungen und Aufgaben -- eine Reihe von Software-Paketen. Um die Auswahl möglichst einfach zu machen, können Sie sich automatisch eine Reihe von Paketen installieren lassen, die Ihr System so konfigurieren, dass es sich gut für ein Studium an der Fakultät für Informatik an der Technischen Hochschule Mannheim eignet.
 
 ## Installationsskripte herunterladen
 

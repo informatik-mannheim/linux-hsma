@@ -1,4 +1,4 @@
-# 🐧 Linux für die Hochschule Mannheim 🐧
+# 🐧 Linux für die Technische Hochschule Mannheim 🐧
 
 Dieses Repository liefert einige Hilfe, um ein Linux-System für Studierende der Informatik (oder Mitarbeiter an der Fakultät) aufzusetzen. Neben Anleitungen bietet es auch ein Skripte, um einfach und schnell die wichtigsten Pakete zu installieren und das System zu konfigurieren.
 
