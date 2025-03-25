@@ -22,7 +22,7 @@ Tragen Sie Ihren vollständigen Namen und Ihre E-Mail-Adresse ein und **entferne
 
 <img src="img/evolution_3.png" width="400">
 
-Tragen Sie die Zugangsdaten für den Mailserver der Hochschule ein.
+Tragen Sie die Zugangsdaten für den Mailserver der Technischen Hochschule ein.
 
   * Server: `stud.hs-mannheim.de` für Studierende und `mail.hs-mannheim.de` für Mitarbeiter.
   * Port: `993`

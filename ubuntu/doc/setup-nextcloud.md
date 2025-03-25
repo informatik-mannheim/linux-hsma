@@ -1,6 +1,6 @@
 ## NextCloud verbinden
 
-Sie können Ihre Ubuntu-Installation direkt mit dem NextCloud-Angebot (_Clousi_) der Hochschule verbinden. Direkt nach der Installation wird Ihnen ein Dialog angezeigt, mit dem Sie Ihre Cloud-Konten verbinden können.
+Sie können Ihre Ubuntu-Installation direkt mit dem NextCloud-Angebot (_Clousi_) der Technischen Hochschule verbinden. Direkt nach der Installation wird Ihnen ein Dialog angezeigt, mit dem Sie Ihre Cloud-Konten verbinden können.
 
 <img src="img/nextcloud_1.png" width="300">
 

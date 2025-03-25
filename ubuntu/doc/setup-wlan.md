@@ -1,6 +1,6 @@
 ## WLAN Einrichten
 
-Innerhalb der Hochschule müssen Sie kein VPN verwenden, sondern können sich direkt mit dem WLAN verbinden.
+Innerhalb der Technischen Hochschule müssen Sie kein VPN verwenden, sondern können sich direkt mit dem WLAN verbinden.
 
 Öffnen Sie die Einstellungen und wählen Sie den Punkt "WIFI/WLAN" aus. Dort sollten Ihnen verschiedene WLANs angezeigt werden. Wählen Sie das Netzwerk "eduroam" aus.
 
